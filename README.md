@@ -1,7 +1,3 @@
-Here's a formatted README file that includes each of the steps you've listed for implementing image saving in a database using Node.js:
-
----
-
 # Image Upload and Save to Database with Node.js, Express, and MongoDB
 
 This project demonstrates how to upload an image, save it to the server, and store its details in a MongoDB database using Node.js, Express, Mongoose, and Multer.
